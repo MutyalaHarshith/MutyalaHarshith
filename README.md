@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=MutyalaHarshith&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/MutyalaHarshith/github-readme-stats)
+
+
+### status
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=MutyalaHarshith&tc=323&ic=323)
