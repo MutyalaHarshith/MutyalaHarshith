@@ -9,7 +9,7 @@
 𝑷𝒓𝒐𝒏𝒐𝒖𝒏𝒔: 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉
 𝑭𝒖𝒏 𝒇𝒂𝒄𝒕: 𝑰𝒂𝒎 𝒂 𝑩𝒐𝒚 𝒂𝒏𝒅 𝑮𝒆𝒏𝒕𝒍𝒆 𝑴𝒂𝒏
 
-𝓗𝓲 𝓘𝓪𝓶 𝓗𝓪𝓻𝓼𝓱𝓲𝓽𝓱 𝓜𝓾𝓽𝔂𝓪𝓵𝓪 𝓘𝓪𝓶 𝓪 𝓢𝓲𝓶𝓹𝓵𝓮 𝓜𝓪𝓷 𝓣𝓱𝓮𝓻𝓮 𝓘𝓼 𝓝𝓸 𝓢𝓾𝓬𝓬𝓮𝓼𝓼 𝓘𝓷 𝓜𝔂 𝓛𝓲𝓯𝓮 𝓘 𝓦𝓪𝓷𝓽 𝓣𝓸 𝓕𝓲𝓷𝓭 𝓢𝓾𝓬𝓬𝓮𝓼𝓼 𝓪𝓷𝓭 𝓘 𝓤𝓹𝓵𝓸𝓪𝓭 𝓟𝓻𝓲𝓿𝓪𝓬𝔂 𝓜𝓸𝓿𝓲𝓮𝓼 𝓞𝓷 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝔂 𝓨𝓸𝓾𝓣𝓾𝓫𝓮 𝓒𝓱𝓪𝓷𝓷𝓮𝓵
+𝓗𝓲 𝓘𝓪𝓶 [𝓗𝓪𝓻𝓼𝓱𝓲𝓽𝓱 𝓜𝓾𝓽𝔂𝓪𝓵𝓪](https://t.me/Harshith_Mutyala) 𝓘𝓪𝓶 𝓪 𝓢𝓲𝓶𝓹𝓵𝓮 𝓜𝓪𝓷 𝓣𝓱𝓮𝓻𝓮 𝓘𝓼 𝓝𝓸 𝓢𝓾𝓬𝓬𝓮𝓼𝓼 𝓘𝓷 𝓜𝔂 𝓛𝓲𝓯𝓮 𝓘 𝓦𝓪𝓷𝓽 𝓣𝓸 𝓕𝓲𝓷𝓭 𝓢𝓾𝓬𝓬𝓮𝓼𝓼 𝓪𝓷𝓭 𝓘 𝓤𝓹𝓵𝓸𝓪𝓭 𝓟𝓻𝓲𝓿𝓪𝓬𝔂 𝓜𝓸𝓿𝓲𝓮𝓼 𝓞𝓷 [𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶](https://t.me/Harshith_Studios)
 
 ### 𝑴𝒖𝒕𝒚𝒂𝒍𝒂 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉
 
@@ -20,9 +20,32 @@
 <a href="https://telegram.dog/Harshith_Mutyala"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram"></a>
 <a href="https://github.com/MutyalaHarshith"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
 <a href="https://youtube.com/channel/UCE72_6rmOJYa6JTXNaZ5LSw"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://instagram.com/mutyala.harshith"><img scr=""></a>
 <p align="left">
 </p>
+
+<a href="https://t.me/Harshith_Mutyala">
+    <img alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+
+<a href="https://instagram.com/mutyala.harshith">
+    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+
+<a href="https://youtube.com/channel/UCE72_6rmOJYa6JTXNaZ5LSw">
+    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  </a>
+
+<a href="https://github.com/MutyalaHarshith">
+    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+  </a>
+
+<a href="https://twitter.com/MutyalaHarshith">
+    <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  </a>
+
+<a href="https://www.facebook.com/Mutyala.Harshith">
+    <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a>
 
 ### Harshith
 [![Stats](https://github-readme-stats.vercel.app/api?username=MutyalaHarshith&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/MutyalaHarshith/github-readme-stats)
