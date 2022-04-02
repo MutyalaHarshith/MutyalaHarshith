@@ -52,6 +52,8 @@
 <details><summary>𝑺𝒕𝒂𝒕𝒖𝒔 𝑺𝒊𝒏𝒈𝒍𝒆</summary>
 <p>
 
+![Visitor Count](https://profile-counter.glitch.me/{mutyalaharshith}/count.svg)
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=MutyalaHarshith&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/MutyalaHarshith/github-readme-stats)
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=MutyalaHarshith&tc=323&ic=323)
