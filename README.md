@@ -47,9 +47,11 @@
     <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
 
-### Harshith
+### Status
+
+<details><summary>Status Single</summary>
+<p>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=MutyalaHarshith&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/MutyalaHarshith/github-readme-stats)
 
-
-### status
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=MutyalaHarshith&tc=323&ic=323)
