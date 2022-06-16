@@ -23,36 +23,9 @@
 <p align="left">
 </p>
 
-<a href="https://t.me/Harshith_Mutyala">
-    <img alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
-  </a>
-
-<a href="https://instagram.com/mutyala.harshith">
-    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a>
-
-<a href="https://youtube.com/channel/UCE72_6rmOJYa6JTXNaZ5LSw">
-    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-  </a>
-
-<a href="https://github.com/MutyalaHarshith">
-    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-  </a>
-
-<a href="https://twitter.com/MutyalaHarshith">
-    <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
-  </a>
-
-<a href="https://www.facebook.com/Mutyala.Harshith">
-    <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-  </a>
-
 ### 𝑺𝒕𝒂𝒕𝒖𝒔
 
-<details><summary>𝑺𝒕𝒂𝒕𝒖𝒔 𝑺𝒊𝒏𝒈𝒍𝒆</summary>
-<p>
-
-![Visitor Count](https://profile-counter.glitch.me/{mutyalaharshith}/count.svg)
+![Harshith Count](https://profile-counter.glitch.me/{mutyalaharshith}/count.svg)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=MutyalaHarshith&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/MutyalaHarshith/github-readme-stats)
 
