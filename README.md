@@ -30,3 +30,48 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=MutyalaHarshith&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/MutyalaHarshith/github-readme-stats)
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=MutyalaHarshith&tc=323&ic=323)
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00B348&multiline=true&height=120&lines=Iam+Mutyala+Harshith+%E2%98%81%EF%B8%8F.;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;My+Favourite+Languages+%F0%9F%8C%BA;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;Python-%5BPro%E2%9D%A4%EF%B8%8F%5D%2C+Java-%5BAdv%F0%9F%92%A1%5D;HTML-%5BNoob%5D+.....">
+</p>
+<p>
+<img src="https://itstommi.vercel.app/api?theme=dark&spin=true&scan=true&kalavathi=true">
+</p>
+<p align="left">
+    <details>
+        <summary>
+            <b><i>✦𝙼𝚢 𝚆𝚘𝚛𝚔𝚜 𝙾𝚗 𝙶𝚒𝚝𝚑𝚞𝚋❄︎</i></b>
+        </summary>
+    <details>
+        <!-- analysis -->
+        <summary>
+            <p align='center'><b><i>▸ Mʏ Gɪᴛʜᴜʙ Aɴᴀʟɪsɪs᪥</i></b></p>
+        </summary>
+     <img src="https://github-readme-stats.vercel.app/api?username=MutyalaHarshith&&show_icons=true&title_color=0BEB28&icon_color=EF070B&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutyalaHarshith&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="">
+    </details>
+    <details>
+        <summary>
+            <b>
+                <i>
+                   <p align='center'>▸ Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛs❀</p>
+                </i>
+            </b>
+        </summary>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutyalaHarshith&theme=blue-green" alt="Lang Anlysis"><br>      
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MutyalaHarshith&theme=vue" alt="Anylisis">
+    </details>
+    <details>
+        <summary>
+            <p align='center'><b><i>▸ Mʏ Gɪᴛʜᴜʙ Tᴏᴘʜʏ Sᴛᴀᴛs𑁍</i></b></p>
+        </summary>
+        <img src="https://github-profile-trophy.vercel.app/?username=MutyalaHarshith&row=3&column=3" alt="Github Trophy Stats">
+    </details>
+</details>
+
+
+<p align="left" style="font-size:30px;">
+    <b><img src="https://github.com/itsmehyper13/itsmehyper13/blob/SparkelAD1317/SparkelAD/htmlanime.webp" height="30px">
