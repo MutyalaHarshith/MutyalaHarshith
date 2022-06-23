@@ -35,7 +35,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00B348&multiline=true&height=120&lines=Iam+Mutyala+Harshith+%E2%98%81%EF%B8%8F.;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;My+Favourite+Languages+%F0%9F%8C%BA;%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB%C2%BB;Python-%5BPro%E2%9D%A4%EF%B8%8F%5D%2C+Java-%5BAdv%F0%9F%92%A1%5D;HTML-%5BNoob%5D+.....">
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=200&color=00B348&multiline=true&height=350&lines=Iam+Mutyala+Harshith;Hai;My+Favourite+Languages;Python;𝑰’𝒎+𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚+𝑺𝒕𝒖𝒅𝒆𝒏𝒕+𝒐𝒏+𝑮𝒊𝒕𝑯𝒖𝒃+𝑰’𝒎+𝒄𝒂𝒏'𝒕+l𝒆𝒂𝒓𝒏𝒔+𝒇𝒓𝒐𝒎;𝒆𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏+𝑰’𝒎+𝒍𝒐𝒐𝒌𝒊𝒏𝒈+𝒕𝒐+𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆+𝒐𝒏+𝑮𝒊𝒕𝑯𝒖𝒃;𝑰’𝒎+𝒍𝒐𝒐𝒌𝒊𝒏𝒈+𝒇𝒐𝒓+𝒉𝒆𝒍𝒑+𝒘𝒊𝒕𝒉+𝒂𝒏𝒚𝒐𝒏𝒆+𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈;𝑪𝒐𝒅𝒊𝒏𝒈+𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔+𝑫𝒐𝒏'𝒕+𝑨𝒔𝒌+𝑴𝒆+𝒂𝒃𝒐𝒖𝒕;𝑴𝒚+𝑺𝒆𝒍𝒇+𝑴𝒚+𝑮𝒐𝒂𝒍+𝒊𝒔+𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏+𝑰𝒏+𝑭𝒊𝒓𝒔𝒕+𝑷𝒓𝒐𝒏𝒐𝒖𝒏𝒔;𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉+𝑭𝒖𝒏+𝒇𝒂𝒄𝒕;𝑰𝒂𝒎+𝒂+𝑩𝒐𝒚+𝒂𝒏𝒅+𝑮𝒆𝒏𝒕𝒍𝒆+𝑴𝒂𝒏;𝓗𝓲+𝓘𝓪𝓶+𝓗𝓪𝓻𝓼𝓱𝓲𝓽𝓱+𝓜𝓾𝓽𝔂𝓪𝓵𝓪;𝓘𝓪𝓶+𝓪+𝓢𝓲𝓶𝓹𝓵𝓮+𝓜𝓪𝓷+𝓣𝓱𝓮𝓻𝓮+𝓘𝓼+𝓝𝓸+𝓢𝓾𝓬𝓬𝓮𝓼𝓼;𝓘𝓷+𝓜𝔂+𝓛𝓲𝓯𝓮+𝓘𝓦𝓪𝓷𝓽+𝓣𝓸+𝓕𝓲𝓷𝓭+𝓢𝓾𝓬𝓬𝓮𝓼𝓼;𝓘+𝓤𝓹𝓵𝓸𝓪𝓭+𝓟𝓻𝓲𝓿𝓪𝓬𝔂+𝓜𝓸𝓿𝓲𝓮𝓼+𝓞𝓷+𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶.....">
 </p>
 <p>
 <img src="https://itstommi.vercel.app/api?theme=dark&spin=true&scan=true&kalavathi=true">
@@ -75,3 +75,15 @@
 
 <p align="left" style="font-size:30px;">
     <b><img src="https://github.com/itsmehyper13/itsmehyper13/blob/SparkelAD1317/SparkelAD/htmlanime.webp" height="30px">
+
+
+
+
+
+
+
+<p align="center">
+<a href="https://t.me/MutyalaHarshith"><Img src="https://metrics.lecoq.io/MutyalaHarshith?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&lines=1&repositories=1&introduction=1&base.indepth=false&reposi"></A>
+</p>
+
+
